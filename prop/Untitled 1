@@ -1,0 +1,2 @@
+mfg.selenium.timeout.wait=60
+mfg.selenium.timeout.page=60
