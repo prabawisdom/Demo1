@@ -21,6 +21,8 @@ public class duplicate {
   while(a.charAt(++i)==ch )
 	  
 	  
+	  
+	  
   {}
   ch=a.charAt(i); 
   }
